@@ -1,0 +1,4 @@
+1.1. <strong>film</strong> tablosunda bulunan <strong>title</strong> ve <strong>description</strong> sütunlarındaki verileri sıralayınız.
+```
+SELECT title, description FROM film
+``` 
